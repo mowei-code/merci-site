@@ -26,4 +26,14 @@ window.onload = function() {
   
     alert("註冊成功！"); // 註冊成功提示
   }
-  
+      margin: 0;
+      padding: 0;
+      font-family: ',sans-serif;'
+{
+  Selection}
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background#; #00ff00;
+}
